@@ -12,4 +12,4 @@ Leuphana University Lüneburg
 Universitätsallee 1, C4.308b  
 21335 Lüneburg – Germany  
 Fon: 04131 677-2417  
-https://www.leuphana.de/aix  
+[leuphana.de/aix](https://www.leuphana.de/en/institutes/iis/artificial-intelligence-and-explainability.html)

@@ -1,3 +1,12 @@
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/CV">CV</a></li>
+    <!-- Add more links as needed -->
+  </ul>
+</nav>
+<hr>
+
 # Kai Moltzen's Home
 
 This page is currently built... until then, let's stay in contact via:

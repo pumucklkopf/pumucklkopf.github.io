@@ -1,6 +1,6 @@
 # Kai Moltzen's Home
 
-This page is currently built... until then, let's stay in contact via:
+This page is currently under construction... until then, let's stay in contact via:
 
 ## Contacts
 Kai Moltzen  

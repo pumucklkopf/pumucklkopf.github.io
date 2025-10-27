@@ -2,7 +2,7 @@
 title: "GANDR - Georelating Dataset, Metrics, and Evaluation"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-GANDR
+permalink: /publications/2025-GANDR
 excerpt: 'We generate a new dataset, propose metrics, and perform an extensive evaluation for the novel Georelating task.'
 date: 2025-11-03
 venue: 'The 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (GeoAI ’25)'

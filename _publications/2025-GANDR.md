@@ -6,7 +6,7 @@ excerpt: 'We generate a new dataset, propose metrics, and perform an extensive e
 date: 2025-11-03
 category: conferences
 venue: 'The 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (GeoAI ’25)'
-citation: 'Kai Moltzen and Ricardo Usbeck. 2025. GANDR - Georelating Dataset, Metrics, and Evaluation. In The 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (GeoAI ’25), November 3–6, 2025, Minneapolis, MN, USA. ACM, New York, NY, USA, 11 pages. https://doi.org/ 10.1145/3764912.3770819'
+citation: 'Kai Moltzen and Ricardo Usbeck. 2025. GANDR - Georelating Dataset, Metrics, and Evaluation. In The 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (GeoAI ’25), November 3–6, 2025, Minneapolis, MN, USA. ACM, New York, NY, USA, 11 pages. https://doi.org/ 10.1145/3764912.3770819. To be published.'
 ---
 Georelating has been introduced to learn geospatial representations of events from textual reports, which requires the interpretation  of spatial relations. To foster the development and evaluation of Georelating systems, we construct the silver-standard Georelating
 Annotated Natural Disaster Reports dataset GANDR and benchmark our LLM agent architecture as a baseline (areal F1 = 0.609, fuzzy cell match score = 0.833) for this new task.

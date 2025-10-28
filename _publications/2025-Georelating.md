@@ -1,7 +1,7 @@
 ---
 title: "LLM Agents for Georelating - A New Task for Locating Events"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publications/2025-Georelating
 excerpt: 'We introduce the task of Georelating to learn the spatial representation of natural disasters from spatial natural language.'
 date: 2025-11-03

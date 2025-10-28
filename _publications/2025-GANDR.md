@@ -3,7 +3,8 @@ title: "GANDR - Georelating Dataset, Metrics, and Evaluation"
 collection: publications
 permalink: /publications/2025-GANDR
 excerpt: 'We generate a new dataset, propose metrics, and perform an extensive evaluation for the novel Georelating task.'
-date: 2025-10-03
+date: 2025-11-03
+publication_category: conferences
 venue: 'The 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (GeoAI ’25)'
 citation: 'Kai Moltzen and Ricardo Usbeck. 2025. GANDR - Georelating Dataset, Metrics, and Evaluation. In The 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (GeoAI ’25), November 3–6, 2025, Minneapolis, MN, USA. ACM, New York, NY, USA, 11 pages. https://doi.org/ 10.1145/3764912.3770819'
 ---
